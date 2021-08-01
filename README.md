@@ -16,6 +16,12 @@ LabyChatReply is an Addon for the Minecraft LabyMod client and lets you message 
 ### HypixelApi
 In development is also a Java-Api-Wrapper for the HypixelAPI which includes object parsing and event-handling this project is not yet public due to the current state of completeness.
 
+### hydex
+Also in progress is a Hypixel stats viewer :)
+
+### antimoxs.dev
+Of course I'm working on my website as well ^^
+
 <!--
 **Antimoxs/Antimoxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
