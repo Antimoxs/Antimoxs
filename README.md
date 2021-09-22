@@ -2,11 +2,7 @@
 # **Haii! I am Antimoxs and welcome to my GitHub!**
 I mainly code in Java but also have basic knowledge in Python, JavaScript, Html, Vue.js/Nuxt.js and Css/Sass. It all started a few years ago with my very own Discord bot in Java which is still running today and extending Discords functions with some very useful features (https://tbcbot.page.link/invite). Since then I've been improving my Java skills and now working on some more projects besides my bot. I also started to get my head through web-developing via Nuxt.
 
-https://socials.antimoxs.dev/discord
-*/twitter
-*/instagram
-*/twitch
-*/github
+https://socials.antimoxs.dev/
 
 ## What I am currently working on:
 
