@@ -18,7 +18,7 @@ As mentioned above, I have my own Discord bot which is providing a range of feat
 LabyChatReply is an Addon for the Minecraft LabyMod client and lets you message your Laby-Friends via the ingame-chat. You can customize your syntax and even set own commands for your friends. The addon is currently avaible for the versions 1.8.9, 1.12.2 and 1.16.5. 
 > https://github.com/Antimoxs/LabyChatReply
 > 
-> https://github.com/Antimoxs/LabyCHatReply12
+> https://github.com/Antimoxs/LabyChatReply12
 > 
 > https://github.com/Antimoxs/LabyChatReply16
 
