@@ -6,7 +6,10 @@ https://socials.antimoxs.dev/
 
 ## What I am currently working on:
 
-### TBC Server Bot
+### Blaubart.net
+Working on this lil baby <3 it's gonna be great.
+
+### Discord Bot
 As mentioned above, I have my own Discord bot which is providing a range of features to make my life easier. It's coded in Java and nearly safe coded so even idiots can use it. My plans for the future are a complete recode of the old structure since a lot of it is still from the beginning when i started with Java and its neither very clean nor easy to expand.
 
 ***
@@ -21,6 +24,11 @@ LabyChatReply is an Addon for the Minecraft LabyMod client and lets you message 
 
 ### HypixelApi
 In development is also a Java-Api-Wrapper for the HypixelAPI which includes object parsing and event-handling this project is not yet public due to the current state of completeness.
+
+***
+
+### (LabyAddon) // No name yet
+I'm working on a LabyMod Addon for Hypixel.
 
 ***
 
