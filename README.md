@@ -30,6 +30,9 @@ LabyChatReply is an Addon for the Minecraft LabyMod client and lets you message 
 ***
 
 ### HypixelApi
+
+v2 soon?
+
 In development is also a Java-Api-Wrapper for the HypixelAPI which includes object parsing and event-handling this project is not yet public due to the current state of completeness.
 
 ***
