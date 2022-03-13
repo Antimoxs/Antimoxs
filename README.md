@@ -16,6 +16,9 @@ As mentioned above, I have my own Discord bot which is providing a range of feat
 
 ### HyPlus
 HyPlus is an LabyMod server-support addon for Hypixel that enhances your experience on Hypixel with a range of useful features. It comes with location and party detection, Discord Presence, Challenge tracker, Level head and more.
+
+[![Java Gradle Build](https://github.com/Antimoxs/HyPlus/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/Antimoxs/HyPlus/actions/workflows/gradle.yml)
+
 > https://github.com/Antimoxs/HyPlus
 
 ### LabyChatReply
