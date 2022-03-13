@@ -14,6 +14,10 @@ As mentioned above, I have my own Discord bot which is providing a range of feat
 
 ***
 
+### HyPlus
+HyPlus is an LabyMod server-support addon for Hypixel that enhances your experience on Hypixel with a range of useful features. It comes with location and party detection, Discord Presence, Challenge tracker, Level head and more.
+> https://github.com/Antimoxs/HyPlus
+
 ### LabyChatReply
 LabyChatReply is an Addon for the Minecraft LabyMod client and lets you message your Laby-Friends via the ingame-chat. You can customize your syntax and even set own commands for your friends. The addon is currently avaible for the versions 1.8.9, 1.12.2 and 1.16.5. 
 
