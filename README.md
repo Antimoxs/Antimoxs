@@ -50,7 +50,8 @@ In development is also a Java-Api-Wrapper for the HypixelAPI which includes obje
 ## Other projects
 
 ### connect4
-Yo yes thats basically a very dynamic connect4 library in java.
+So yes thats basically a very dynamic connect4 library in java. 
+https://github.com/Antimoxs/connect4
 
 ### antimoxs.dev
 Of course I'm working on my website as well ^^
