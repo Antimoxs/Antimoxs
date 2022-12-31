@@ -1,16 +1,19 @@
 
 # **Haii! I am Antimoxs and welcome to my GitHub!**
-I mainly code in Java but also have basic knowledge in Python, JavaScript, Html, Vue.js/Nuxt.js and Css/Sass. It all started a few years ago with my very own Discord bot in Java which is still running today and extending Discords functions with some very useful features (https://tbcbot.page.link/invite). Since then I've been improving my Java skills and now working on some more projects besides my bot. I also started to get my head through web-developing via Nuxt.
+I mainly code in Java but also have basic knowledge in Python, JavaScript, Html, Vue.js/Nuxt.js and Css/Sass. It all started a few years ago with my very own Discord bot in Java. Since then I've been improving my Java skills and now working on some more projects besides my bot. I also started to get my head through web-developing via Nuxt.
+Currently im working on a next-gen minecraft server-system for our Blaubart.net server. (https://blaubart.net)
 
-https://socials.antimoxs.dev/
+Check out:   
+https://antimoxs.dev/
 
 ## What I am currently working on:
 
 ### Blaubart.net
 Working on this lil baby <3 it's gonna be great.
+More information @ https://blaubart.net
 
 ### Discord Bot
-As mentioned above, I have my own Discord bot which is providing a range of features to make my life easier. It's coded in Java and nearly safe coded so even idiots can use it. My plans for the future are a complete recode of the old structure since a lot of it is still from the beginning when i started with Java and its neither very clean nor easy to expand.
+As mentioned above, I have my own Discord bot which is providing a range of features to make my life easier. It's coded in Java and nearly safe coded so even idiots can use it. My plans for the future are a complete recode of the old structure since a lot of it is still from the beginning when i started with Java and its neither very clean nor easy to expand. (Currently on ice due to time sob)
 
 ***
 
@@ -46,8 +49,8 @@ In development is also a Java-Api-Wrapper for the HypixelAPI which includes obje
 
 ## Other projects
 
-### hydex
-Also in progress is a Hypixel stats viewer :)
+### connect4
+Yo yes thats basically a very dynamic connect4 library in java.
 
 ### antimoxs.dev
 Of course I'm working on my website as well ^^
